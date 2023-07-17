@@ -1,4 +1,4 @@
-# optiver_wand_problem
+# Solution to Optiver's signal problem
 
 Optiver posted the following problem some years ago as part of their recruitment process. This notebook provides the solution for a general amount of signals and wands. 
 
